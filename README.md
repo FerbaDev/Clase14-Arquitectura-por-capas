@@ -10,10 +10,10 @@ juguete controller ------------------------------ 00:56
 mejorando router -------------------------------- 00:59  
 explicacion de como funciona -------------------- 01:03
 
-desde nuestra app, nos conectamos con las rutas, en las rutas se conectan los endpoints
-con los metodos del controlador. El controlador gestiona las peticiones del cliente y 
-las respuestas del servidor. En el controlador se llama al service y lo que se onbtiene 
-como respuesta se envia al cliente. 
+desde nuestra app, nos conectamos con las rutas, en las rutas se conectan los endpoints  
+con los metodos del controlador. El controlador gestiona las peticiones del cliente y  
+las respuestas del servidor. En el controlador se llama al service y lo que se onbtiene  
+como respuesta se envia al cliente.  
 
 repaso de como interactuan las capas del proyecto 01:21  
 utils ------------------------------------------- 01:36  
@@ -21,10 +21,15 @@ modificando controller -------------------------- 01:38
 consejos para mejorar el servidor --------------- 01:42  
 configrando packagejson y commander ------------- 01:48  
 configurando dotenv para modo produccion o dev -- 02:35  
+manejo de entornos ------------------------------ 02:45  
+
+patrones de diseño ------------------------------ 02:52  
+patron singleton -------------------------------- 02:58  
 
 
 
 
-dejé en ------- 00:24
-(req, res) => 
-() => {}
+
+dejé en ------- 02:58  
+(req, res) =>  
+() => {}  
