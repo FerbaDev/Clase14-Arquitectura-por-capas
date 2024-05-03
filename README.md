@@ -18,6 +18,9 @@ como respuesta se envia al cliente.
 repaso de como interactuan las capas del proyecto 01:21  
 utils ------------------------------------------- 01:36  
 modificando controller -------------------------- 01:38  
+consejos para mejorar el servidor --------------- 01:42  
+configrando packagejson y commander ------------- 01:48  
+configurando dotenv para modo produccion o dev -- 02:35  
 
 
 
