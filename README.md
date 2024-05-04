@@ -26,6 +26,8 @@ manejo de entornos ------------------------------ 02:45
 patrones de diseño ------------------------------ 02:52  
 patron singleton -------------------------------- 02:58  
 
+## server side rendering
+
 
 
 
