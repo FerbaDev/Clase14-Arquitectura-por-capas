@@ -1,4 +1,4 @@
-# Arquitectura por capas
+# Arquitectura por capas  
 
 inicia proyecto --------------------------------- 00:08  
 juguetes json en compas mongo db ---------------- 00:28  
@@ -8,7 +8,7 @@ juguete model ----------------------------------- 00:39
 juguetes service -------------------------------- 00:46  
 juguete controller ------------------------------ 00:56  
 mejorando router -------------------------------- 00:59  
-explicacion de como funciona -------------------- 01:03
+explicacion de como funciona -------------------- 01:03  
 
 desde nuestra app, nos conectamos con las rutas, en las rutas se conectan los endpoints  
 con los metodos del controlador. El controlador gestiona las peticiones del cliente y  
@@ -23,10 +23,18 @@ configrando packagejson y commander ------------- 01:48
 configurando dotenv para modo produccion o dev -- 02:35  
 manejo de entornos ------------------------------ 02:45  
 
+## singleton  
+
 patrones de diseño ------------------------------ 02:52  
 patron singleton -------------------------------- 02:58  
 
-## server side rendering
+## server side rendering  
+
+configuracion del formulario con javascript ----- 03:31  
+cors -------------------------------------------- 03:45  
+
+explicacion de desafio entregable --------------- 03:52  
+
 
 
 
